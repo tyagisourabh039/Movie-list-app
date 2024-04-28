@@ -47,7 +47,7 @@ Clone the project into local
 2. go to the folder or directory where you want to clone this repository
 3. write command  git clone repository url
 ```bash
-git clone 
+git clone https://github.com/tyagisourabh039/Movie-list-app.git
 ```
 4. type code . to open project folder in vs code
 ```bash
@@ -56,7 +56,7 @@ code .
 5. open terminal in vs code
 6.  Go into the project folder movie-list-app
 ```bash
-cd movie-list-app
+cd Movie-list-app
 ```
 7. Install all the npm packages. Type the following command to install all npm packages
 
